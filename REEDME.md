@@ -1,7 +1,12 @@
 # CS1MA20 Autumn Assignment 2021
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+This math is inline $`a^2+b^2=c^2`$.
 
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
 # Question 1
 
 img
