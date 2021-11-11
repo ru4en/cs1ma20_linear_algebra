@@ -147,3 +147,6 @@ AC =
       18 & 86 & 82
 \end{bmatrix}
 ```
+
+## Question 2
+
