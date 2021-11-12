@@ -1,9 +1,9 @@
 # CS1MA20 Autumn Assignment 2021
-Module Code:                  CS1MA20
-Assignment report Title:      Autumn Assignment 2021
-Student Number:               30021591
-Date:                         12/11/2021
-Hrs spent for the assignment: 3
+Module Code:                  CS1MA20     \
+Assignment report Title:      Autumn Assignment 2021  \
+Student Number:               30021591    \
+Date:                         12/11/2021  \
+Hrs spent for the assignment: 3     \
 Assignment evaluation:        
 
 
