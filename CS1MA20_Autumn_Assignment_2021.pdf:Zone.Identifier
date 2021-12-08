@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://s3.us-west-2.amazonaws.com/temporary.notion-static.com/Export-fda8db7d-e38f-4c40-b9de-7284e7d5ca92/CS1MA20_Autumn_Assignment_2021.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211208T070021Z&X-Amz-Expires=604800&X-Amz-Signature=2a4d71b4a9aae0b094e691ddc103790195c251cbaac7927093289761bb3b5ca7&X-Amz-SignedHeaders=host&x-id=GetObject
